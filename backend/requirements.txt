@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+groq
+transformers
+torch
+pillow
+openai-whisper
+faiss-cpu
+sentence-transformers
+librosa
+soundfile
+gTTS
